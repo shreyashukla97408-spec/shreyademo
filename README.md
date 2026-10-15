@@ -1,2 +1,2 @@
 # shreyademo
-my first repositories
+My first GIT repositories
